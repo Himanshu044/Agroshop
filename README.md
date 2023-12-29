@@ -1,5 +1,7 @@
 # Agroshop
-A Plant disease detection and product recommendation ecommerce application with chat bot
+ An Android app for easy plant disease detection, personalized product recommendations, and interactive chatbot support. 
+Quickly identify plant issues, get tailored solutions, and make purchases within the app. Seamlessly developed on the Android platform,
+ catering to the needs of plant enthusiasts and gardeners for a user-friendly experience
 ![ac07f7c0-14b0-4303-8726-3e788f219e91](https://user-images.githubusercontent.com/65442069/170824090-b0a98a14-79a1-4b3b-ad42-42312122bc93.jpg)
 
 
